@@ -1,0 +1,167 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-div1{
+    height: 80px;
+    font-size: 13.5px;
+
+}
+.section-img{
+    width: 100%;
+    height: 100vh;
+    background-image: url(photo1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.section-h1 h1{
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+.section-h1 .h1{
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    padding-top: 1px;
+}
+.section-h1 p{
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.div-button button{
+    border-radius: 1px;
+    font-size: 20px;
+    text-align: center;
+}
+.div-button{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.bunner{
+    width: 100%;
+    height: 100vh;
+}
+.bunner1{
+    width: 100%;
+    height: 100vh;
+    background-color:#F5F5F5;
+}
+.section-img2{
+    width: 100%;
+    height: 100vh;
+    background-image: url(photo-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.img2 h1{
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.img2 p{
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.img2 button{
+    border-radius: 1px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 370px;
+    margin-top: 20px;
+    
+}
+.section5 h3{
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 90px;
+}
+.section5 p{
+    font-weight: 300;
+    color: gray;
+    text-align: center;
+    padding-top: 30px;
+}
+.section5 button{
+    background-color: #5D47D7;
+    border-radius: 1px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 370px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    
+}
+.section5-img{
+    width: 100%;
+    height: 150vh;
+    background-image: url(photo-2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.black{
+    width: 100%;
+    height: 200vh;
+    background-color: #0E1015;
+}
+.black h3{
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.black h6{
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding:30px 0px;
+    
+}
+.section7{
+    width: 100%;
+    height: 100vh;
+    background-image: url(photo-22.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+.section7-div h3{
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.section7-div p{
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.section7-img img{
+  width: 100px;  
+  border-radius: 100px;
+  position:relative;
+  top: 20px;
+  left: 420px;
+   
+}
+
+
+
